@@ -17,7 +17,7 @@
               <li style="font-size:20px;">📧 Email: cherry92111081128@gmail.com</li>
               <li style="font-size:20px;">📱 Phone: 0912577792</li>
               <li style="font-size:20px;">💻 GitHub: 
-                <a href="https://hannahlin07.github.io/hannahweb2025/" target="_blank">HannahWeb</a>
+                <a href="https://hannahlin07.github.io/hannahweb2025/" target="_blank">Hannah's Web</a>
               </li>
             </ul>
           </div>
